@@ -1,0 +1,4 @@
+- adaugarea de comentarii suplimentare
+- adaugarea interfetei Operation si a clasei ConcreteOperation
+- adaugarea interfetei PerformOperation si a claselor concrete pt toate tipurile de operatii
+- inlocuirea codului din handleChoice() din Menu prin folosirea cls concrete PerformOperation
