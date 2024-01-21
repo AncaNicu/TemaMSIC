@@ -1,0 +1,4 @@
+- clase pt validarea anilor
+- comentarii pt toate clasele
+- reducerea nr. de parametrii ai updateBook() la 7
+  => 3 issues (2 legate de xml si una pt URI)
