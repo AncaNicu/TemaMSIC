@@ -1,0 +1,2 @@
+aparent toate issue-urile sunt reparate (inclusiv cel legat de URI)
+proiectul e pastrat in cuConfig
