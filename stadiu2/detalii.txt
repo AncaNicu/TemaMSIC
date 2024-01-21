@@ -1,0 +1,3 @@
+Stadiu in care am remediat cateva CodeSmells:
+  - system.out inlocuit cu logger
+=> CodeSmells = 7 sau pe acolo
