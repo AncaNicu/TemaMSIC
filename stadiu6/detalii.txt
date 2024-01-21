@@ -1,0 +1,2 @@
+aparent, problemele legate de xml sunt rezolvate
+  si mai ramane doar cea legata de URI
