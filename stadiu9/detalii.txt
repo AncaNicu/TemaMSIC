@@ -1,0 +1,1 @@
+- stadiul final, in care am adaugat partea de interfata cu utilizatorul
